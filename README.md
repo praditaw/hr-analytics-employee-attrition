@@ -56,3 +56,16 @@ The analysis uses the public [IBM HR Analytics Employee Attrition & Performance]
 * Perform a salary benchmark analysis against industry standards and a workload audit to reduce reliance on overtime.
 * Develop a structured, year-long onboarding program to support new hires and show a clear career path.
 * Use regular "surveys" to detect dissatisfaction early and take preventive action.
+
+## File Structure
+```hr-analytics-employee-attrition/
+├── HR-Employee-Attrition-Analysis.ipynb    # Main analysis notebook
+├── WA_Fn-UseC_-HR-Employee-Attrition.csv   # Dataset
+└── README.md                               # This file
+```
+---
+Thank you for taking the time to check out my project! I enjoyed the challenge of taking this project from a raw csv file to a complete, EDA. My goal was to not just analyze the data, but to tell a clear story that could lead to real business actions.
+
+I'm always eager to learn and discuss different approaches to solving problems with data. If you have any questions, feedback, or just want to connect, please feel free to reach out!
+
+**[Connect with me on LinkedIn](https://www.linkedin.com/in/praditajeng/)**
